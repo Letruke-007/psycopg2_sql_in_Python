@@ -3,7 +3,7 @@
 import psycopg2
 
 # Создаем подключение к базе данных clients_management
-conn = psycopg2.connect(database='clients_management', user='postgres', password='let007')
+conn = psycopg2.connect(database='clients_management', user='postgres', password='111111')
 
 
 # Реализуем функцию создания в базе данных таблиц SQL
